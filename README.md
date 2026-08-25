@@ -61,8 +61,8 @@ Ensure you have Python 3.8+ installed along with the required libraries:
 ### 2. 💻 Installation & Setup
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/gjiajanelle/NYC-Public-School-Academic-Performance-Analysis.git
+cd NYC-Public-School-Academic-Performance-Analysis
 pip install pandas numpy jupyter
 ```
 
